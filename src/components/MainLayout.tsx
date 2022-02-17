@@ -7,7 +7,6 @@ import { FiChevronUp } from 'react-icons/fi'
 import Header from './HeaderSection'
 import FooterSection from './FooterSection'
 import BottomNavigation from './BottomNavigation'
-import SubmitGhIssue from './SubmitGhIssue'
 import { BASE_PATH } from '../constants'
 import { scrollTo } from '../utils'
 
