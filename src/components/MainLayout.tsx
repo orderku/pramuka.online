@@ -62,7 +62,7 @@ function Layout({ children }: LayoutProps) {
         <main className="flex-1 p-4 mx-auto mt-14 mb-16 w-full sm:max-w-xl">
           <>
             {children}
-            <SubmitGhIssue />
+            
             <FooterSection />
           </>
         </main>
